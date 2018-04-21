@@ -27,7 +27,7 @@
     <ClCompile Include="..\Classes\PlayLayer.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="GameoverScene.cpp">
+    <ClCompile Include="..\Classes\GameoverScene.cpp">
       <Filter>src</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\GameoverScene.cpp">
@@ -50,7 +50,7 @@
     <ClInclude Include="..\Classes\PlayLayer.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="GameoverScene.h">
+    <ClInclude Include="..\Classes\GameoverScene.h">
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\GameoverScene.h">
