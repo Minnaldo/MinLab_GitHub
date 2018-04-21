@@ -9,4 +9,7 @@ public:
 
 private:
 	virtual bool init() override;
+	
+	//배경 스프라이트
+	cocos2d::Sprite *bgSprite;
 };

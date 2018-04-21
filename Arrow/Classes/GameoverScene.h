@@ -12,5 +12,4 @@ public:
 private:
 	virtual bool init() override;
 
-
 };
